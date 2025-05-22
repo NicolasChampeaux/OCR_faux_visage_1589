@@ -1,0 +1,35 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: OCR_faux_visage_1589
+url: https://github.com/NicolasChampeaux/OCR_faux_visage_1589
+authors:
+  - name: Nicolas
+    surname: Champeaux
+    orcid: 0009-0004-0181-7968
+    roles:
+      - transcriber
+      - project-manager
+      - quality-control
+institutions: []
+description: >-
+  This repository contains the segmentation and transcription of Le Faux Visage
+  descouvert du fin renard de la France, a French printed text dating from 1589.
+language:
+  - fra
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-typed
+time:
+  notBefore: '1589'
+  notAfter: '1589'
+hands:
+  count: '1'
+  precision: exact
+license:
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+  - metric: pages
+    count: 24
