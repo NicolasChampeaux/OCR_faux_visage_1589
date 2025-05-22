@@ -1,35 +1,127 @@
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: OCR_faux_visage_1589
-url: https://github.com/NicolasChampeaux/OCR_faux_visage_1589
 authors:
-  - name: Nicolas
-    surname: Champeaux
-    orcid: 0009-0004-0181-7968
-    roles:
-      - transcriber
-      - project-manager
-      - quality-control
-institutions: []
+- name: Nicolas
+  orcid: 0009-0004-0181-7968
+  roles:
+  - transcriber
+  - project-manager
+  - quality-control
+  surname: Champeaux
+automatically-aligned: false
+characters:
+  members:
+  - e
+  - r
+  - u
+  - a
+  - i
+  - n
+  - t
+  - o
+  - ſ
+  - l
+  - s
+  - c
+  - d
+  - p
+  - m
+  - ','
+  - q
+  - v
+  - g
+  - f
+  - h
+  - ’
+  - y
+  - '&'
+  - b
+  - ¬
+  - ̃
+  - ́
+  - x
+  - .
+  - z
+  - C
+  - ̀
+  - E
+  - D
+  - P
+  - ':'
+  - '?'
+  - I
+  - A
+  - "'"
+  - R
+  - F
+  - S
+  - Q
+  - L
+  - N
+  - '-'
+  - V
+  - O
+  - M
+  - H
+  - œ
+  - ̧
+  - T
+  - '1'
+  - G
+  - (
+  - )
+  - B
+  - j
+  - ̂
+  - '2'
+  - X
+  - æ
+  - '8'
+  - '5'
+  - '3'
+  - '4'
+  - Y
+  - '!'
+  - '7'
+  - ß
+  - ⁹
+  - ̈
+  - '9'
+  - '6'
+  - '0'
+  - J
+  - U
+  - ꝗ
+  mode: NFD
 description: >-
   This repository contains the segmentation and transcription of Le Faux Visage
   descouvert du fin renard de la France, a French printed text dating from 1589.
-language:
-  - fra
-production-software: eScriptorium + Kraken
-automatically-aligned: false
-script:
-  - iso: Latn
-script-type: only-typed
-time:
-  notBefore: '1589'
-  notAfter: '1589'
+format: Alto-XML
 hands:
   count: '1'
   precision: exact
+institutions: []
+language:
+- fra
 license:
   name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
+production-software: eScriptorium + Kraken
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: only-typed
+time:
+  notAfter: '1589'
+  notBefore: '1589'
+title: OCR_faux_visage_1589
+url: https://github.com/NicolasChampeaux/OCR_faux_visage_1589
 volume:
-  - metric: pages
-    count: 24
+- count: 29230
+  metric: characters
+- count: 24
+  metric: files
+- count: 782
+  metric: lines
+- count: 24
+  metric: pages
+- count: 105
+  metric: regions
