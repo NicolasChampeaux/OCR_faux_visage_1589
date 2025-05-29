@@ -9,7 +9,7 @@
     </sourceImageInformation>
   </Description>
   <Tags>
-    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3056" LABEL="MarginTextZone-ManuscriptAddendum" DESCRIPTION="block type MarginTextZone-ManuscriptAddendum"/><OtherTag ID="BT3057" LABEL="MainZone-Head" DESCRIPTION="block type MainZone-Head"/><OtherTag ID="BT3058" LABEL="MainZone-Lg" DESCRIPTION="block type MainZone-Lg"/><OtherTag ID="BT3059" LABEL="MainZone-P" DESCRIPTION="block type MainZone-P"/><OtherTag ID="BT3060" LABEL="MainZone-Continued" DESCRIPTION="block type MainZone-Continued"/><OtherTag ID="BT3061" LABEL="MainZone-ListItem" DESCRIPTION="block type MainZone-ListItem"/><OtherTag ID="BT3062" LABEL="MainZone-Sp" DESCRIPTION="block type MainZone-Sp"/>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT100007" LABEL="MarginTextZone-ManuscriptAddendum" DESCRIPTION="block type MarginTextZone-ManuscriptAddendum"/><OtherTag ID="BT100001" LABEL="MainZone-Head" DESCRIPTION="block type MainZone-Head"/><OtherTag ID="BT100002" LABEL="MainZone-Lg" DESCRIPTION="block type MainZone-Lg"/><OtherTag ID="BT100005" LABEL="MainZone-P" DESCRIPTION="block type MainZone-P"/><OtherTag ID="BT100006" LABEL="MainZone-Continued" DESCRIPTION="block type MainZone-Continued"/><OtherTag ID="BT100014" LABEL="MainZone-ListItem" DESCRIPTION="block type MainZone-ListItem"/><OtherTag ID="BT100008" LABEL="MainZone-Sp" DESCRIPTION="block type MainZone-Sp"/>
     <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
   </Tags>
   <Layout>
@@ -26,7 +26,7 @@
                    WIDTH="788"
                    HEIGHT="292"
                    ID="eSc_textblock_6939c52b"
-                   TAGREFS="BT3060">
+                   TAGREFS="BT100006">
           <Shape><Polygon POINTS="85 71 85 361 868 363 873 71"/></Shape>
           <TextLine ID="eSc_line_8b3d3ba4"
                     TAGREFS="LT8"
@@ -147,7 +147,7 @@
                    WIDTH="92"
                    HEIGHT="31"
                    ID="eSc_textblock_a35eb788"
-                   TAGREFS="BT3061">
+                   TAGREFS="BT100014">
           <Shape><Polygon POINTS="478 371 478 402 570 402 570 371"/></Shape>
           <TextLine ID="eSc_line_9f38a6e4"
                     TAGREFS="LT8"
@@ -170,7 +170,7 @@
                    WIDTH="767"
                    HEIGHT="698"
                    ID="eSc_textblock_234e90e5"
-                   TAGREFS="BT3058">
+                   TAGREFS="BT100002">
           <Shape><Polygon POINTS="78 401 78 1099 845 1099 845 401"/></Shape>
           <TextLine ID="eSc_line_08756efd"
                     TAGREFS="LT9"
@@ -402,7 +402,7 @@
                    WIDTH="128.0"
                    HEIGHT="37.0"
                    ID="eSc_textblock_fb24ab70"
-                   TAGREFS="BT3061">
+                   TAGREFS="BT100014">
           <Shape><Polygon POINTS="415 1105 415 1142 543 1142 543 1105"/></Shape>
           <TextLine ID="eSc_line_0724480e"
                     TAGREFS="LT8"
@@ -425,7 +425,7 @@
                    WIDTH="832"
                    HEIGHT="552"
                    ID="eSc_textblock_d19e0e3c"
-                   TAGREFS="BT3058">
+                   TAGREFS="BT100002">
           <Shape><Polygon POINTS="50 1141 50 1693 882 1693 882 1141"/></Shape>
           <TextLine ID="eSc_line_50a08d8e"
                     TAGREFS="LT9"
